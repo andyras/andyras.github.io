@@ -12,12 +12,12 @@ a {
 
 a:hover { text-decoration: underline; }
 
-a:link, a:visited { color: #ec2029; }
+a:link, a:visited { color: #6600CC; }
 
-a:hover, a:active { color: #666b6f; }
+a:hover, a:active { color: #6600CC; }
 
 h1, h2, h3 {
-  color: #007A29;
+  color: #CC3300;
   margin: 0px;
   padding: 0px;
 }
@@ -25,8 +25,8 @@ h1, h2, h3 {
 h1 {
   font-size: 36px;
   text-align: center;
-  border-top: 2px solid #520063;
-  border-bottom: 2px solid #520063;
+  border-top: 2px solid #CC3300;
+  border-bottom: 2px solid #CC3300;
   margin-bottom: 10px;
   margin-top: 10px;
 }
@@ -56,15 +56,15 @@ div.container {
 }
 
 div.header {
-  height: 164px;
-  /*background: url(img/Northwestern_Logo.jpg) left top no-repeat;*/
+  height: 125px;
+  background: url(img/andyras.png) center top no-repeat;
 }
 
 div.nav {
   padding: 10px;
   margin: 10 0 0 0;
   text-align: center;
-  background: #520063;
+  background: #CC3300;
   background: #FFFFFF;
 }
 
